@@ -1,0 +1,53 @@
+html{
+        scroll-behavior: smooth; /*untuk menampilkan tampilan scrooling yang smooth*/
+    }
+    
+.ngakali{
+        height: 60px; /*untuk ukuran dari tampilan tinggi suatu div sebesar 60px*/
+    }
+.awalan {
+        background-color: rgb(255, 255, 255); /*untuk mewarnai background*/
+        padding: 0 0 0 4%; /*untuk memberi ruang space sebesar top 0 right 0 bottom 0 left 4% */
+    }
+
+
+/* about */
+#gambar{
+        float: left; /*untuk gambar ke tampilan left atau kiri*/
+        margin-right: 20px; /*untuk tampilan margin ke kanan 20px*/
+    }
+
+/* portofolio */
+.porto{
+    width: 90%; /*untuk ukuran lebar 90%*/
+    text-align: justify; /*untuk menepatkan text ke tampilan justify atau rata kanan dan kiri*/
+    padding: 11px; /*ukuran padding 11px*/
+    }
+    
+/* contack */
+#contact {
+        margin-top: 100px; /*untuk ukuran margin atas atau ukuran dari atas sebesar 100px*/
+    }
+#contact h3 {
+        color: #333; /*untuk memodelisasi menjadi warna tertentu*/
+        font-size: 2em; /*untuk memberi ukuran pada text dan berukuran 2rm*/
+        padding-bottom: 5px; /*untuk padding atau tampilan dari bawah sebesar 5px*/
+    }
+.form-group {
+        margin-bottom: 20px; /*untuk ditampilan margin dari bawah sebesar 20px*/
+    }
+
+.form-control {
+        border: 1px solid #000; /*memberikan efek border */
+        border-radius: 5px; /*memberikan nilai dari radius sebesar 5px*/
+        font-size: 1rem; /*untuk mengatur ukuran text*/
+        padding: 10px; /*untuk ukuran padding 10px*/
+        width: 100%; /*untuk ukuran lebar 100%*/
+    }
+.column {
+        float: left; /* untuk tampilan ke kiri */
+        width: 50%; /*untuk ukuran lebar 50% */
+        padding: 0 15px; /*padding berukuran dri top 0 dan dari right 15px*/
+    }
+
+
